@@ -1,39 +1,39 @@
 body {
   text-align: center;
-  background: #00ecb9;
+  background: #000000;
   font-family: sans-serif;
   font-weight: 100;
 }
  
 .countdown-title {
-  color: #000;
+  color: #ff0;
   font-weight: 100;
-  font-size: 60px;
-  -webkit-text-stroke-width: 2.1px;
-  -webkit-text-stroke-color: #1adf0c;
+  font-size: 120px;
+  -webkit-text-stroke-width: 3px;
+  -webkit-text-stroke-color: #000000;
   margin: 40px 0px 20px;
 }
  
 .countdown {
   font-family: sans-serif;
-  color: #fff;
+  color: #000;
   display: inline-block;
   font-weight: 100;
   text-align: center;
-  font-size: 30px;
+  font-size: 60px;
 }
  
 .countdown-number {
   padding: 10px;
   border-radius: 3px;
-  background: #00bf96;
+  background: #ffff00;
   display: inline-block;
 }
  
 .countdown-time {
   padding: 15px;
   border-radius: 3px;
-  background: #00816a;
+  background: #eeee6a;
   display: inline-block;
 }
  
