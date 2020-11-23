@@ -6,9 +6,11 @@ body {
 }
  
 .countdown-title {
-  color: #396;
+  color: #000;
   font-weight: 100;
-  font-size: 40px;
+  font-size: 60px;
+  -webkit-text-stroke-width: 2.1px;
+  -webkit-text-stroke-color: #1adf0c;
   margin: 40px 0px 20px;
 }
  
